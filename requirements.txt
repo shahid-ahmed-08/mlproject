@@ -1,4 +1,15 @@
-pandas
-numpy
-seaborn
+ipykernel
+pandas 
+numpy 
+matplotlib 
+seaborn 
+scikit-learn 
+imbalanced-learn 
+xgboost 
+flask 
+streamlit
+sympy
+yfinance
+plotly
+openpyxl
 -e .

@@ -3,6 +3,17 @@ Name: mlproject
 Version: 0.0.1
 Author: Shahid
 Author-email: shahid91309@gmail.com
+Requires-Dist: ipykernel
 Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: matplotlib
 Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: imbalanced-learn
+Requires-Dist: xgboost
+Requires-Dist: flask
+Requires-Dist: streamlit
+Requires-Dist: sympy
+Requires-Dist: yfinance
+Requires-Dist: plotly
+Requires-Dist: openpyxl
